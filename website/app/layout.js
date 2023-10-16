@@ -5,8 +5,8 @@ import Navbar from './nav/page.jsx'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Nombre por ver',
-  description: 'Sitio web para el futuro',
+  title: 'Metrotech',
+  description: 'Metrotech una empresa enfocada al desarrollo de nuevas soluciones tecnologicas, mejorando la ciberseguridad y la transformacion digital',
 }
 
 export default function RootLayout({ children }) {
